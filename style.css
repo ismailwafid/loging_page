@@ -36,8 +36,12 @@ input[type="password"] {
 
 input[type="submit"] {
     margin-top: 20px;
-    color: rgb(52, 0, 238);
+    color: rgb(255, 255, 255);
     border-radius: 30px;
-    width: 
+    padding: 10px;
+    background-color: rgb(24, 156, 35);
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
 }
 
